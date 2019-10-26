@@ -143,4 +143,3 @@ The cool thing here is that even if the parent type's method return type was `No
 ## If your subtype's method delegates to it's parent type's implementation, make sure to **always** return the result!
 
 It's a simple lesson, but it makes sense and can be applied as a blanket rule to form good habits!
-
